@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Nice%20to%20Meet%20you!%20👋&descAlign=53&fontSize=50"/>  
 </p>
-<br />
 
-<p align="center">I'm Frontend Engineer work with Typescript! </p>
 <br />
 
 <p align="center"><b> ⚙️ Tech Stack ⚙️ </b></p>
